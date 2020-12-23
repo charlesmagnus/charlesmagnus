@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+JavaScript FullStack developper. I like JS Framework and working with Angular, Vue. In Backend, i use [NestJS](https://nestjs.com)
+
+In last two years, i work using Angular and NestJS. And i realize that i need to learn others technologies.
+
 <!--
 **charlesmagnus/charlesmagnus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
